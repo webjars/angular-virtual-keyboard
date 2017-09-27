@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>angular-virtual-keyboard</artifactId>
-    <version>0.4.3-SNAPSHOT</version>
+    <version>0.4.3</version>
     <name>angular-virtual-keyboard</name>
     <description>WebJar for angular-virtual-keyboard</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/angular-virtual-keyboard</url>
         <connection>scm:git:https://github.com/webjars/angular-virtual-keyboard.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/angular-virtual-keyboard.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>angular-virtual-keyboard-0.4.3</tag>
     </scm>
     
     <dependencies>
